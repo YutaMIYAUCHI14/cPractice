@@ -43,4 +43,6 @@ int main(void)
     }
 
     printf("%d\n", dp[N - 1]);
+
+    return 0;
 }
